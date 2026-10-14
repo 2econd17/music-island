@@ -1,0 +1,8 @@
+PySide6-Essentials>=6.6
+numpy>=1.26
+PyAudioWPatch>=0.2.12 ; sys_platform == "win32"
+winrt-runtime>=3.0 ; sys_platform == "win32"
+winrt-Windows.Foundation>=3.0 ; sys_platform == "win32"
+winrt-Windows.Foundation.Collections>=3.0 ; sys_platform == "win32"
+winrt-Windows.Media.Control>=3.0 ; sys_platform == "win32"
+winrt-Windows.Storage.Streams>=3.0 ; sys_platform == "win32"
