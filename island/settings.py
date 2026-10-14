@@ -16,7 +16,7 @@ from PySide6.QtWidgets import (
 from . import autostart
 from .config import APP_NAME, CONFIG_DIR, CORNERS, HOTKEY_ACTIONS, VERSION, Config
 
-REPO_URL = "https://github.com/YOUR_GITHUB_NAME/music-island"
+REPO_URL = "https://github.com/2econd17/music-island"
 
 
 class ColorButton(QPushButton):
